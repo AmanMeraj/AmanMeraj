@@ -1,8 +1,9 @@
-[![MasterHead](https://images.wallpapersden.com/image/download/monkey-d-luffy-one-piece-art_66159_3840x2160.jpg)]
+![MasterHead](https://images.wallpapersden.com/image/download/monkey-d-luffy-one-piece-art_66159_3840x2160.jpg)
 <h1 align="center">Hi 👋, I'm Aman Meraj</h1>
 <h3 align="center">Hey 👋, Glad to see you here! Check out this repository to learn more about me. GitHub README ✨ (Don't Just Fork, Star Too )</h3>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/83457399337735453/">
-<p align="left"> <img src="https://tenor.com/view/who-asked-gif-25956246" alt="AmanMeraj" /> </p>
+<div align="center">
+ <img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmanMeraj&theme=" alt="AmanMeraj" /></a> </p>
 
